@@ -1,6 +1,6 @@
 import { Button } from "@mui/material";
 import React, { Component } from "react";
-import OrganizationProfile from "../OrganizationProfile";
+import OrganizationProfile from "./OrganizationProfile";
 import UserProfile from "./UserProfile";
 
 class Profiles extends Component {
